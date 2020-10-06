@@ -18,6 +18,7 @@ checkout_as_guest = driver.find_element_by_link_text("Checkout as Guest").click(
 
 # fill out form
 
+# create the input data of the form
 name = 'Full Name'
 ship_address = '1234 Forever Way'
 city = 'Los Angles'
